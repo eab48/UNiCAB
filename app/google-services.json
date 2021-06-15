@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045466934502",
+    "project_id": "unicab-fddae",
+    "storage_bucket": "unicab-fddae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045466934502:android:48c20ee86e12db6755df27",
+        "android_client_info": {
+          "package_name": "com.example.unicab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045466934502-ptf5no9ddvfar8g07oudqtplgc0i41e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZAUI04mwxEa8maZZIErGeFLl_qk1qhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045466934502-ptf5no9ddvfar8g07oudqtplgc0i41e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
